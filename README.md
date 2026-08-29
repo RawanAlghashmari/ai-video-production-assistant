@@ -25,18 +25,7 @@ Landing → Requirements → Results
 - `styles.css`
 - `app.js`
 
-## Run Locally
-```bash
-python -m http.server 8000
-```
 
-Then open:
-`http://localhost:8000`
-
-If needed on Windows:
-```bash
-py -m http.server 8000
-```
 
 ## Development Principle
 Protect the current working MVP. Make one scoped change at a time, test the full flow, then save/commit the change.
